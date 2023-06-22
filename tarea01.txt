@@ -1,0 +1,5 @@
+1. Crear un documento HTML
+2. Utilizar una etiqueta de título para colocar sus nombres
+3. Crear una lista desordenada o lista ordenada hobbies
+4. Crear dos Párrafos: Comentar algo del hobbie 
+5. Print de pantalla y lo pasan al chat
